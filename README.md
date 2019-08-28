@@ -9,7 +9,7 @@ I thought it'd be fun to rip off YouTube Music by making an app that allows you 
 1. Google Play will reject it. I found out later that it rejects all apps that allow users to play YouTube videos in the background.
 2. All audio/video-related components in RN are finicky. They work, but the controls need to be customized. There is no integration with YouTube, as the YouTube component doesn't work on Android unless the user has YouTube installed. The solution was to use WebView, which has performance issues and messes up the UI.
 3. This was the biggest setback: I couldn't for the life of me get my custom Song component to keep rendering. I.e. the music wouldn't play unless the user was on the same screen all the time. This was the deal-breaker that made me put a stop to this project.
-4. Violation of YouTube EULA.\
+4. Violation of YouTube EULA.\\
 Nevertheless, I'm glad I did this. It was the best learning experience possible. I had fun making the logo and trying to design a reasonably good UI. I learned how to prototype and wireframe; how to deal with authentication flow; how to persist key-value pairs/files on the phone; how to use Redux (and its middleware) in conjunction with RN, etc.
 ## Prototype
 It's not professionally made with something like Adobe XD, but it gets the job done. This is the first time I tried wireframing, and now I can't imagine building a mobile app without it. It gives you directions on what to build, instead of thinking about what you want it to look like as you are building.
