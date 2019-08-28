@@ -17,7 +17,7 @@ It's not professionally made with something like Adobe XD, but it gets the job d
 ![Wireframe](https://i.imgur.com/DNB0DGZ.png)
 ## Lesson
 Plan... Plan a lot beforehand. Think about what I want out of the project. Yes the project was fun and it really sharpened my React Native and Redux skills, but it was time-consuming and I can't deliver the app due to the issues I mentioned above. I need a clear objective for the project: Is it for training purposes only? Or do I actually want to make a production build and publish it? Only after answering this question can I start thinking about whether or not the idea is feasible, how much time it will take, etc.
-##### Shameless notice
+#### Shameless notice
 
 Not putting the code here because it's too messy lol.
 
