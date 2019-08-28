@@ -15,8 +15,9 @@ Nevertheless, I'm glad I did this. It was the best learning experience possible.
 ## Prototype
 It's not professionally made with something like Adobe XD, but it gets the job done. This is the first time I tried wireframing, and now I can't imagine building a mobile app without it. It gives you directions on what to build, instead of thinking about what you want it to look like as you are building.
 ![Wireframe](https://i.imgur.com/DNB0DGZ.png)
+<br>
 ## Lesson
 Plan... Plan a lot beforehand. Think about what I want out of the project. Yes the project was fun and it really sharpened my React Native and Redux skills, but it was time-consuming and I can't deliver the app due to the issues I mentioned above. I need a clear objective for the project: Is it for training purposes only? Or do I actually want to make a production build and publish it? Only after answering this question can I start thinking about whether or not the idea is feasible, how much time it will take, etc.
-## Shameless notice
+<br>
+###### Shameless notice
 Not putting the code here because it's too messy lol.
-
